@@ -283,6 +283,7 @@ header {
 }
 
 .form-section {
+    display: flex;
     background-color: #FCEEF1;
     padding-bottom: 30px;
 }
@@ -294,11 +295,32 @@ header {
     margin-bottom: 40px;
 }
 
+.contact-section{
+    background-color: #FCEEF1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .footer-column {
     display: flex;
     width: 50%;
     justify-content: center;
-    margin-left: 450px;
+    margin-left: 40px;
 
 }
 
